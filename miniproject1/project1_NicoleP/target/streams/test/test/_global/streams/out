@@ -1,0 +1,249 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.colorado.csci3155.project1.CompilerTest, org.scalatest.tools.Framework$$anon$1@7ca2a670, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.colorado.csci3155.project1.StackMachineTest, org.scalatest.tools.Framework$$anon$1@7ca2a670, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStackMachineTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Result is Num(6.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Result is Bool(true) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stack machine test 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Result is Num(0.575) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompilerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: simple expression 1 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: simple expression 2 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: simple expression 3 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.4) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IMul [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISub [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple expression 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: simple expression 4 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.4) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IMul [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISub [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IDiv [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(0.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Id Test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: LetBinding + Id Test 1 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Id Test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: LetBinding+ Id Test 2 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Id Test 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: Let Binding + Id Test 3 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IMul [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Id Test 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: LetBinding + Id Test 4 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(2.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- LetBinding + Id Test 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: LetBinding + Id Test 5 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(3.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IMul [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISub [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If-then-else-test-1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Expression: Let(x,Const(25.0),IfThenElse(Geq(Id(x),Const(25.0)),Add(Id(x),Const(25.5)),Const(43.0))) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: If-then-else-test-1 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(25.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(25.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ICondSkip(4) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(25.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISkip(1) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(43.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If-then-else-test-2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: if-then-else-test2 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(24.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(45.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(25.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ICondSkip(4) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(25.5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISkip(1) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(43.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test-and-simple-1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: test-and-simple-1 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(0.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ICondSkip(4) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(-4.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISkip(1) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPushBool(false) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test-and-simple-2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: test-and-simple-2 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ICondSkip(4) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(0.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IDiv [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISkip(1) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPushBool(false) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test-and-simple-3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: test-and-simple-3 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ICondSkip(4) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(-4.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISkip(1) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPushBool(false) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test-or-simple-1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: test-or-simple-1 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ICondSkip(2) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPushBool(true) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISkip(3) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(-4.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test-or-not-1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: test-or-not-1 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(5.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(1.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ICondSkip(2) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPushBool(true) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ISkip(5) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(0.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(0.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IDiv [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(0.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IGeq [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + INot [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test-let-binding-1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Your result for CompilerTest: test-let-binding-1 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(10.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPush(20.0) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IStore(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(x) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ILoad(y) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IMul [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPlus [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + IPop [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + ------------------------------- [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 404 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 22[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 22, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu.colorado.csci3155.project1.StackMachineTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu.colorado.csci3155.project1.CompilerTest[0m

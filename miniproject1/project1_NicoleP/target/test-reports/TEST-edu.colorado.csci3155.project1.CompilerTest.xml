@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Nicoles-MacBook-Pro-2.local" name="edu.colorado.csci3155.project1.CompilerTest" tests="17" errors="0" failures="0" skipped="0" time="0.059" timestamp="2026-02-28T18:43:22">
+          <properties>
+      <property name="java.specification.version" value="20"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://java.oracle.com/"/><property name="sun.boot.library.path" value="/Users/nicoleparaschiv/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/lib"/><property name="sun.java.command" value="/Users/nicoleparaschiv/Library/Caches/Coursier/arc/https/github.com/sbt/sbt/releases/download/v1.12.2/sbt-1.12.2.zip/sbt/bin/sbt-launch.jar clean test"/><property name="jdk.debug" value="release"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2023-04-18"/><property name="java.home" value="/Users/nicoleparaschiv/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="Zero based"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="20.0.1+9-29"/><property name="user.name" value="nicoleparaschiv"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/Users/nicoleparaschiv/Library/Caches/JNA/temp/jna5534741793328793470.tmp"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/var/folders/68/m_7kppq93pj_w1m3dq6g_hdh0000gn/T/"/><property name="java.version" value="20.0.1"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="native.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/nicoleparaschiv/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="stderr.encoding" value="UTF-8"/><property name="java.vendor" value="Oracle Corporation"/><property name="scala.ext.dirs" value="/Users/nicoleparaschiv/.sbt/1.0/java9-rt-ext-oracle_corporation_20_0_1"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="java.class.path" value="/Users/nicoleparaschiv/Library/Caches/Coursier/arc/https/github.com/sbt/sbt/releases/download/v1.12.2/sbt-1.12.2.zip/sbt/bin/sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="America/Denver"/><property name="java.vm.specification.version" value="20"/><property name="os.name" value="Mac OS X"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/Users/nicoleparaschiv"/><property name="user.language" value="en"/><property name="sbt.script" value="/Users/nicoleparaschiv/Library/Caches/Coursier/arc/https/github.com/sbt/sbt/releases/download/v1.12.2/sbt-1.12.2.zip/sbt/bin/sbt"/><property name="sbt.ipcsocket.tmpdir" value="/var/folders/68/m_7kppq93pj_w1m3dq6g_hdh0000gn/T/.sbtdf55aa25/ipcsocket"/><property name="swoval.tmpdir" value="/var/folders/68/m_7kppq93pj_w1m3dq6g_hdh0000gn/T/.sbtdf55aa25/swoval"/><property name="apple.awt.application.name" value="Boot"/><property name="jline.esc.timeout" value="0"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="stdout.encoding" value="UTF-8"/><property name="path.separator" value=":"/><property name="os.version" value="26.3"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="user.dir" value="/Users/nicoleparaschiv/Library/CloudStorage/OneDrive-UCB-O365/Spring 2026/CSCI 3155-100 Principles of Programming Languages/miniproject1/project1_NicoleP"/><property name="os.arch" value="x86_64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="20.0.1+9-29"/><property name="java.class.version" value="64.0"/>
+    </properties>
+          <testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="simple expression 1" time="0.015">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="simple expression 2" time="0.004">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="simple expression 3" time="0.004">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="simple expression 4" time="0.006">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="LetBinding + Id Test 1" time="0.005">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="LetBinding + Id Test 2" time="0.003">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="LetBinding + Id Test 3" time="0.001">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="LetBinding + Id Test 4" time="0.003">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="LetBinding + Id Test 5" time="0.005">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="If-then-else-test-1" time="0.007">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="If-then-else-test-2" time="0.001">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="test-and-simple-1" time="0.001">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="test-and-simple-2" time="0.0">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="test-and-simple-3" time="0.0">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="test-or-simple-1" time="0.002">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="test-or-not-1" time="0.001">
+                      
+                    </testcase><testcase classname="edu.colorado.csci3155.project1.CompilerTest" name="test-let-binding-1" time="0.001">
+                      
+                    </testcase>
+          <system-out><![CDATA[]]></system-out>
+          <system-err><![CDATA[]]></system-err>
+        </testsuite>

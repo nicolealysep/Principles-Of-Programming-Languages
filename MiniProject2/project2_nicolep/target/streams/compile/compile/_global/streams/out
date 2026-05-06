@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/nicoleparaschiv/Library/CloudStorage/OneDrive-UCB-O365/Spring 2026/CSCI 3155-100 Principles of Programming Languages/MiniProject2/project2_nicolep/src/main/scala/edu/colorado/csci3155/project2/Interpreter.scala:88:37 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m88 |[0m                    FigValue(canvas1.overlay(canvas2))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                             ^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mvalue overlay is not a member of edu.colorado.csci3155.project2.MyCanvas - did you mean canvas1.overlap?[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
